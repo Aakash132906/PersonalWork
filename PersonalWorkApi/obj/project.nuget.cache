@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WI4lFsd7bObo+iMO4m0z1MUzO9WQ4I4v0a6Aq61mWVTRoQMDT2hovt8RQLsbSxFU4DN0L9d0VYrzyKXi6eRRYw==",
+  "success": true,
+  "projectFilePath": "C:\\Aakash\\mypersonalwork\\personalWorks\\personalWorksApi\\PersonalWorkApi\\PersonalWorkApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agile\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\Agile\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Agile\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Agile\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Agile\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Agile\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Agile\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
